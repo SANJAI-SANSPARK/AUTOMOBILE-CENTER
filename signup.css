@@ -1,0 +1,16 @@
+body{
+    background-image: url("p1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+.box{
+    border:2px solid;
+    width:fit-content;
+    position: absolute;
+    left: 31rem;
+    top: 10rem;
+    padding: 30px;
+    background-color: gray;
+    opacity: 75%;
+
+}
